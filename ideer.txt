@@ -1,0 +1,4 @@
+Attackera träningdata om visar ett mönster -> träna modell -> testa mot vanliga bilder -> sänka accuracy
+lösning: hitta vilka som är attackerade, hitta mönstret
+
+kom fram till: Labelflippa om dom visar ett mönster
